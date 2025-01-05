@@ -4,6 +4,7 @@ command-file start-hafen.bat
 
 class-path hafen.jar
 class-path client-res.jar
+class-path sqlite-jdbc-3.42.0.0.jar
 
 main-class haven.MainFrame
 
