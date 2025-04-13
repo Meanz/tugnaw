@@ -11,7 +11,7 @@ main-class haven.MainFrame
 class-path https://game.havenandhearth.com/java/hafen-res.jar
 class-path https://game.havenandhearth.com/java/builtin-res.jar
 
-validate tls-cert:key:rsa:F4AC6C252889376362A77C0AC638003E5525FAC3D507AFEE0642813ED3344187
+validate tls-cert:key:rsa:D9B0170760ED37B79D050F1C4C68D19779EEC4C630A50814AB06C16D452C3E99 
 
 include https://game.havenandhearth.com/java/jogl/current/jogl.hl
 
