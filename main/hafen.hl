@@ -8,8 +8,6 @@ class-path sqlite-jdbc-3.42.0.0.jar
 
 main-class haven.MainFrame
 
-validate tls-cert:key:key:rsa:F4AC6C252889376362A77C0AC638003E5525FAC3D507AFEE0642813ED3344187
-
 class-path https://game.havenandhearth.com/java/hafen-res.jar
 class-path https://game.havenandhearth.com/java/builtin-res.jar
 
